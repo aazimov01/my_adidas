@@ -1,0 +1,177 @@
+@media (max-width: 1199.99px) {
+    .item__1 {
+        font-size: 13px;
+    }
+
+    .item__2 {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 991.99px) {
+    .section__one_item {
+        padding: 15px ;
+    }
+}
+
+@media (max-width: 767.99px) {
+    .nav__list {
+        gap: 15px;
+    }
+
+    .nav__list_link  {
+        font-size: 14px;
+        padding: 25px 0 20px 0;
+    }
+
+    .nav__input {
+        padding-top: 4px;
+        padding-bottom: 4px;
+        padding-left: 6px;
+        width: 110px;
+    }
+
+    .nav__seek {
+        padding: 6px 8px;
+    }
+
+    .header__content_title {
+        font-size: 30px;
+    }
+
+    .header__content_desc  {
+        font-size: 15px;
+    }
+
+    .main__logo {
+        width: 150px;
+        height: 110px;
+    }
+
+    .section__one_title {
+        font-size: 15px;
+    }
+
+    .section__one_img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .info__title {
+        font-size: 17px;
+    }
+
+    .info__desc {
+        font-size: 13px;
+    }
+
+    .last__info_title {
+        font-size: 17px;
+    }
+
+    .nav__list_link-footer {
+        font-size: 14px;
+        padding: 25px 0 20px 0;
+    }
+
+    .footer__nav_logo {
+        width: 75px;
+        height: 50px;
+    }
+
+    .nav__footer {
+        padding: 20px;
+    }
+
+    
+    .item__1 {
+        font-size: 11px;
+    }
+
+    .item__2 {
+        font-size: 11px;
+    }
+
+    .header__content {
+        height: 400px;
+    }
+}
+
+@media (max-width: 575.99px) {
+    .nav {
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 15px;
+    }
+
+    .nav__list {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 30px;
+    }
+
+    .nav__button {
+        margin-left: 60px;
+    }
+
+    .section__one_img {
+        width: 55px;
+        height: 55px;
+    } 
+
+    .section__one_title {
+        font-size: 10px;
+    }
+
+    .info__title {
+        font-size: 10px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .info__desc {
+        font-size: 10px;
+    } 
+
+    .infoimg {
+        margin-top: 20px;
+    }
+
+    .last__info {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .last__info_title {
+        font-size: 10px;
+    }
+
+    .item__1 {
+        font-size: 10px;
+    }
+
+    .item__2 {
+        font-size: 10px;
+    }
+
+    .nav__footer {
+        padding: 10px;
+    }
+
+    .nav__list_footer {
+        gap: 15px;
+    }
+
+    .nav__list_link-footer {
+        font-size: 10px;
+    }
+
+    .footer__nav_logo {
+        width: 50px;
+        height: 40px;
+    }
+
+    .header__content {
+        height: 400px;
+    }
+}
